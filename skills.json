@@ -1,0 +1,30 @@
+{
+    "skills": {
+      "tools": [
+        "Jira",
+        "Confluence",
+        "TM4J",
+        "TestRail",
+        "Figma",
+        "Postman",
+        "Soap UI",
+        "Charles",
+        "Devtools",
+        "BrowserStack",
+        "SQL",
+        "Git",
+        "Bash"
+      ],
+      "web": [
+        "HTTP",
+        "HTML",
+        "CSS"
+      ],
+      "operating_systems": [
+        "Windows",
+        "MacOS",
+        "Android",
+        "iOS"
+      ]
+    }
+  }

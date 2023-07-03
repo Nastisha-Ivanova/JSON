@@ -1,0 +1,20 @@
+{
+    "favorite_movies": [
+        "Harry Potter", 
+        "Lord of the Rings",
+        "Scary movie"
+    ],
+    "favorite_series": [
+        "Strange things",
+        "Friends",
+        "Chernobyl",
+        "Sex in the city"
+    ],
+    "favorite_foods": [
+        "Pizza",
+        "Paste"
+    ],
+    "hobbies": [
+        "Travel"
+    ]
+}
