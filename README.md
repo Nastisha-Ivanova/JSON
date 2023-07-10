@@ -8,6 +8,4 @@
 - **skills.json** - Мои навыки
 - **bug_report.json** - В этом файле написан баг-репорт в json
 
-### Что нужно было со всем этим сделать:
-<a href="https://imgur.com/eY565L8"><img src="https://i.imgur.com/eY565L8.jpg" title="source: imgur.com" /></a>
   
